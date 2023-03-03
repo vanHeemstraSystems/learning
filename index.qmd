@@ -7,6 +7,12 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{ojs}
+__page = hostedOnThumbtools()
+  ? pageRenderer(graphData, width, height, false)
+  : pageRenderer(graphData, width, 800, true)
+```
+
+```{ojs}
 tree = ({
   title: "A Visualization Portfolio",
   group: "root",
