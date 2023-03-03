@@ -13,7 +13,7 @@ Based on "Portfolio" at https://observablehq.com/@trebor/portfolio
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
-Can be read as "Learning" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/VaiLNtxZulQ69lKSHsMr/
+Can be read as "Learning" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/quwM6FgG3FcADTsy3XGb/
 
 Can be browsed as "Learning" at https://vanheemstrasystems.github.io/learning/
 
