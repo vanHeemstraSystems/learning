@@ -1,6 +1,7 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning/actions/workflows/publish.yml)
+
 learning
 # Learning
-
 
 == Learning is the counterpart of Creating, like Jin and Jang ==
 
