@@ -5,6 +5,8 @@ learning
 
 ![yin yang](assets/yin_yang.svg)
 
+<img width="240" height="240" alt="Yin Yang" src="https://raw.githubusercontent.com/vanHeemstraSystems/learning/main/assets/yin_yang.svg">
+
 == [Learning](https://github.com/vanHeemstraSystems/learning/) is the counterpart of [Creating](https://github.com/vanHeemstraSystems/creating/), like Yin and Yang ==
 
 Based on "Hacking Knowledge" https://oedb.org/ilibrarian/hacking-knowledge/
