@@ -5,7 +5,7 @@ learning
 
 ![yin yang](assets/yin_yang.svg)
 
-== Learning is the counterpart of Creating, like Jin and Jang ==
+== Learning is the counterpart of Creating, like Yin and Yang ==
 
 Based on "Hacking Knowledge" https://oedb.org/ilibrarian/hacking-knowledge/
 
