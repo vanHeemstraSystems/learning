@@ -3,6 +3,8 @@
 learning
 # Learning
 
+![animated logo](assets/logo.svg)
+
 == Learning is the counterpart of Creating, like Jin and Jang ==
 
 Based on "Hacking Knowledge" https://oedb.org/ilibrarian/hacking-knowledge/
