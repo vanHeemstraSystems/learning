@@ -13,7 +13,7 @@ Based on "Planning a minimum viable product step-by-step-guide" https://medium.c
 
 See also "10-Step Learning System" at https://github.com/vanHeemstraSystems/10-step-learning-system
 
-See [Learning.odp](https://github.com/vanHeemstraSystems/learning/files/10464774/Learning.odp)
+See [Learning.odp](https://github.com/vanHeemstraSystems/learning/blob/main/assets/Learning.odp)
 
 Based on "Portfolio" at https://observablehq.com/@trebor/portfolio
 
