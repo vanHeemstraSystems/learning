@@ -5,7 +5,7 @@ learning
 
 ![yin yang](assets/yin_yang.svg)
 
-== Learning is the counterpart of Creating, like Yin and Yang ==
+== [Learning](https://github.com/vanHeemstraSystems/learning/) is the counterpart of [Creating](https://github.com/vanHeemstraSystems/creating/), like Yin and Yang ==
 
 Based on "Hacking Knowledge" https://oedb.org/ilibrarian/hacking-knowledge/
 
