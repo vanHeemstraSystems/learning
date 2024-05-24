@@ -23,6 +23,8 @@ Can be read as "Learning" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/qu
 
 Can be browsed as "Learning" at https://vanheemstrasystems.github.io/learning/
 
+Related to "Start Finishing" at https://github.com/vanHeemstraSystems/start-finishing
+
 Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
 
 ## 100 - Introduction
