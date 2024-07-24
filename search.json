@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "use-cases.html",
-    "href": "use-cases.html",
-    "title": "Use Cases",
+    "objectID": "initiative.html",
+    "href": "initiative.html",
+    "title": "Initiative",
     "section": "",
-    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-use-cases/"
+    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-initiative/"
   },
   {
     "objectID": "themes.html",
@@ -28,17 +28,17 @@
     "text": "About this site"
   },
   {
+    "objectID": "use-cases.html",
+    "href": "use-cases.html",
+    "title": "Use Cases",
+    "section": "",
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-use-cases/"
+  },
+  {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
     "title": "Table of contents",
     "section": "",
     "text": "Table of contents\n\nLearning"
-  },
-  {
-    "objectID": "initiative.html",
-    "href": "initiative.html",
-    "title": "Initiative",
-    "section": "",
-    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-initiative/"
   }
 ]
