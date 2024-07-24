@@ -1,11 +1,11 @@
 {
-  "name": "Learning",
+  "name": "learning",
   "version": "1.0.0",
   "description": "Learning",
   "main": "public/index.html",
   "scripts": {
     "postinstall": "copyfiles -f ./node_modules/d3/d3.min.js ./public/js/vendor/d3",
-    "start": "cd ./public; python -m SimpleHTTPServer 8000"
+    "start": "cd ./public; python -m http.server 8000"
   },
   "repository": {
     "type": "git",
