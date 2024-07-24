@@ -9,6 +9,8 @@ learning
 
 Based on "Hacking Knowledge" https://oedb.org/ilibrarian/hacking-knowledge/
 
+Based on "OSINT Framework" at https://github.com/lockfale/OSINT-Framework
+
 Based on "Planning a minimum viable product step-by-step-guide" https://medium.com/@ClrMobile/planning-a-minimum-viable-product-a-step-by-step-guide-6f387d657870
 
 See also "10-Step Learning System" at https://github.com/vanHeemstraSystems/10-step-learning-system
