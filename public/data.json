@@ -37,53 +37,64 @@
               ]
             },
             {
-              "name": "Coding",
+              "name": "Programming",
               "type": "folder",
               "children": [
                 {
                   "name": "url",
                   "type": "url",
-                  "url": "https://vanheemstrasystems.github.io/learning-coding/"
+                  "url": "https://vanheemstrasystems.github.io/learning-programming/"
                 },
                 {
-                  "name": "Infrastructure-as-Code",
+                  "name": "Coding",
                   "type": "folder",
                   "children": [
                     {
                       "name": "url",
                       "type": "url",
-                      "url": "https://vanheemstrasystems.github.io/learning-infrastructure-as-code/"
+                      "url": "https://vanheemstrasystems.github.io/learning-coding/"
                     },
                     {
-                      "name": "Ansible",
+                      "name": "Infrastructure-as-Code",
                       "type": "folder",
                       "children": [
                         {
                           "name": "url",
                           "type": "url",
-                          "url": "https://vanheemstrasystems.github.io/learning-ansible/"
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Packer",
-                      "type": "folder",
-                      "children": [
+                          "url": "https://vanheemstrasystems.github.io/learning-infrastructure-as-code/"
+                        },
                         {
-                          "name": "url",
-                          "type": "url",
-                          "url": "https://vanheemstrasystems.github.io/learning-packer/"
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Terraform",
-                      "type": "folder",
-                      "children": [
+                          "name": "Ansible",
+                          "type": "folder",
+                          "children": [
+                            {
+                              "name": "url",
+                              "type": "url",
+                              "url": "https://vanheemstrasystems.github.io/learning-ansible/"
+                            }
+                          ]
+                        },
                         {
-                          "name": "url",
-                          "type": "url",
-                          "url": "https://vanheemstrasystems.github.io/learning-terraform/"
+                          "name": "Packer",
+                          "type": "folder",
+                          "children": [
+                            {
+                              "name": "url",
+                              "type": "url",
+                              "url": "https://vanheemstrasystems.github.io/learning-packer/"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Terraform",
+                          "type": "folder",
+                          "children": [
+                            {
+                              "name": "url",
+                              "type": "url",
+                              "url": "https://vanheemstrasystems.github.io/learning-terraform/"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -114,31 +125,42 @@
               "url": "https://vanheemstrasystems.github.io/learning-architecture/"
             },
             {
-              "name": "Cloud Architecture",
+              "name": "Cyber Architecture",
               "type": "folder",
               "children": [
                 {
                   "name": "url",
                   "type": "url",
-                  "url": "https://github.com/vanHeemstraSystems/learning-cloud-architecture/"
+                  "url": "https://vanheemstrasystems.github.io/learning-cyber-architecture/"
                 },
                 {
-                  "name": "Azure Cloud Architecture",
+                  "name": "Cloud Architecture",
                   "type": "folder",
                   "children": [
                     {
                       "name": "url",
                       "type": "url",
-                      "url": "https://github.com/vanHeemstraSystems/learning-azure-cloud-architecture/"
+                      "url": "https://github.com/vanHeemstraSystems/learning-cloud-architecture/"
                     },
                     {
-                      "name": "Azure Active Directory",
+                      "name": "Azure Cloud Architecture",
                       "type": "folder",
                       "children": [
                         {
                           "name": "url",
                           "type": "url",
-                          "url": "https://github.com/vanHeemstraSystems/learning-azure-active-directory/"
+                          "url": "https://github.com/vanHeemstraSystems/learning-azure-cloud-architecture/"
+                        },
+                        {
+                          "name": "Azure Active Directory",
+                          "type": "folder",
+                          "children": [
+                            {
+                              "name": "url",
+                              "type": "url",
+                              "url": "https://github.com/vanHeemstraSystems/learning-azure-active-directory/"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -189,6 +211,46 @@
       ]
     },
     {
+      "name": "Governance",
+      "type": "folder",
+      "children": [
+        {
+          "name": "url",
+          "type": "url",
+          "url": "https://vanheemstrasystems.github.io/learning-governance/"
+        },
+        {
+          "name": "Cyber Governance",
+          "type": "folder",
+          "children": [
+            {
+              "name": "url",
+              "type": "url",
+              "url": "https://vanheemstrasystems.github.io/learning-cyber-governance/"
+            },
+            {
+              "name": "Cloud Governance",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "url",
+                  "type": "url",
+                  "url": "https://vanheemstrasystems.github.io/learning-cloud-governance/"
+                },
+                {
+                  "name": "Azure Cloud Governance",
+                  "type": "folder",
+                  "children": [
+                    {}
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Infrastructure",
       "type": "folder",
       "children": [
@@ -198,22 +260,33 @@
           "url": "https://vanheemstrasystems.github.io/learning-infrastructure/"
         },
         {
-          "name": "Cloud Infrastructure",
+          "name": "Cyber Infrastructure",
           "type": "folder",
           "children": [
             {
               "name": "url",
               "type": "url",
-              "url": "https://vanheemstrasystems.github.io/learning-cloud-infrastructure/"
+              "url": "https://vanheemstrasystems.github.io/learning-cyber-infrastructure/"
             },
             {
-              "name": "Azure Cloud Infrastructure",
+              "name": "Cloud Infrastructure",
               "type": "folder",
               "children": [
                 {
                   "name": "url",
                   "type": "url",
-                  "url": "https://vanheemstrasystems.github.io/learning-azure-cloud-infrastructure/"
+                  "url": "https://vanheemstrasystems.github.io/learning-cloud-infrastructure/"
+                },
+                {
+                  "name": "Azure Cloud Infrastructure",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "url",
+                      "type": "url",
+                      "url": "https://vanheemstrasystems.github.io/learning-azure-cloud-infrastructure/"
+                    }
+                  ]
                 }
               ]
             }
@@ -285,6 +358,94 @@
                       "url": "https://vanheemstrasystems.github.io/learning-azure-cloud-security/"
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": "Security Controls",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "url",
+                  "type": "url",
+                  "url": "https://vanheemstrasystems.github.io/learning-security-controls/"
+                },
+                {
+                  "name": "Web Security",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "url",
+                      "type": "url",
+                      "url": "https://vanheemstrasystems.github.io/learning-web-security/"
+                    },
+                    {
+                      "name": "Client-Side Web Security",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "url",
+                          "type": "url",
+                          "url": "https://vanheemstrasystems.github.io/learning-client-side-web-security/"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Middleware Web Security",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "url",
+                          "type": "url",
+                          "url": "https://vanheemstrasystems.github.io/learning-middleware-web-security/"
+                        },
+                        {
+                          "name": "Secure Web Gateway",
+                          "type": "folder",
+                          "children": [
+                            {
+                              "name": "url",
+                              "type": "url",
+                              "url": "https://vanheemstrasystems.github.io/learning-secure-web-gateway/"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Server-Side Web Security",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "url",
+                          "type": "url",
+                          "url": "https://vanheemstrasystems.github.io/learning-server-side-web-security/"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Security Engineering",
+          "type": "folder",
+          "children": [
+            {
+              "name": "url",
+              "type": "url",
+              "url": "https://vanheemstrasystems.github.io/learning-security-engineering/"
+            },
+            {
+              "name": "Application Security Engineering",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "url",
+                  "type": "url",
+                  "url": "https://vanheemstrasystems.github.io/learning-application-security-engineering/"
                 }
               ]
             }
