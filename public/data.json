@@ -3,11 +3,11 @@
   "type": "folder",
   "children": [
   {
-    "name": "Username",
+    "name": "Computing",
     "type": "folder",
     "children": [
     {
-      "name": "Username Search Engines",
+      "name": "Cloud Computing",
       "type": "folder",
       "children": [
       {
@@ -72,7 +72,7 @@
       }]
     },
     {
-      "name": "Specific Sites",
+      "name": "Coding",
       "type": "folder",
       "children": [
       {
