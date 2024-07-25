@@ -36,8 +36,36 @@
                 },
                 {
                   "name": "Cloud Architecture",
-                  "type": "url",
-                  "url": "https://github.com/vanHeemstraSystems/learning-cloud-architecture/"
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "url",
+                      "type": "url",
+                      "url": "https://github.com/vanHeemstraSystems/learning-cloud-architecture/"
+                    },
+                    {
+                      "name": "Azure Cloud Architecture",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "url",
+                          "type": "url",
+                          "url": "https://github.com/vanHeemstraSystems/learning-azure-cloud-architecture/"
+                        },
+                        {
+                          "name": "Azure Active Directory",
+                          "type": "folder",
+                          "children": [
+                            {
+                              "name": "url",
+                              "type": "url",
+                              "url": "https://github.com/vanHeemstraSystems/learning-azure-active-directory/"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 },
                 {
                   "name": "Cloud Security",
@@ -49,6 +77,11 @@
                       "url": "https://vanheemstrasystems.github.io/learning-cloud-security/"
                     },
                     {
+                      "name": "Cloud Access Security Broker",
+                      "type": "url",
+                      "url": "https://github.com/vanHeemstraSystems/learning-cloud-access-security-broker/"
+                    },
+                    {
                       "name": "Azure Cloud Security",
                       "type": "folder",
                       "children": [
@@ -56,11 +89,6 @@
                           "name": "url",
                           "type": "url",
                           "url": "https://vanheemstrasystems.github.io/learning-azure-cloud-security/"
-                        },
-                        {
-                          "name": "Cloud Access Security Broker",
-                          "type": "url",
-                          "url": "https://github.com/vanHeemstraSystems/learning-cloud-access-security-broker/"
                         }
                       ]
                     }
@@ -93,7 +121,29 @@
                         {
                           "name": "url",
                           "type": "url",
-                          "url": "https://vanheemstrasystems.github.io/learning-infrastructure-as-code/"
+                          "url": "https://vanheemstrasystems.github.io/learning-ansible/"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Packer",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "url",
+                          "type": "url",
+                          "url": "https://vanheemstrasystems.github.io/learning-packer/"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Terraform",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "url",
+                          "type": "url",
+                          "url": "https://vanheemstrasystems.github.io/learning-terraform/"
                         }
                       ]
                     }
