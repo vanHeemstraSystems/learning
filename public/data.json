@@ -11,14 +11,26 @@
       "type": "folder",
       "children": [
       {
-        "name": "WhatsMyName",
+        "name": "Cloud Architecture",
         "type": "url",
-        "url": "https://whatsmyname.app/"
+        "url": "https://github.com/vanHeemstraSystems/learning-cloud-architecture/"
       },
       {
-        "name": "Namechk",
-        "type": "url",
-        "url": "https://namechk.com/"
+        "name": "Cloud Security",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Azure Cloud Security",
+            "type": "folder",
+            "children": [
+              {
+                "name": "Cloud Access Security Broker",
+                "type":"url",
+                "url": "https://github.com/vanHeemstraSystems/learning-cloud-access-security-broker/"
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "KnowEm",
