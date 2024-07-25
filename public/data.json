@@ -8,37 +8,6 @@
       "url": "https://vanheemstrasystems.github.io/learning/"
     },
     {
-      "name": "Architecture",
-      "type": "folder",
-      "children": [
-        {
-          "name": "url",
-          "type": "url",
-          "url": "https://vanheemstrasystems.github.io/learning-architecture/"
-        },
-        {
-          "name": "System Design",
-          "type": "folder",
-          "children": [
-            {
-              "name": "url",
-              "type": "url",
-              "url": "https://vanheemstrasystems.github.io/learning-system-design/"
-            },
-            {
-              "name": "Containerisation",
-              "type": "folder",
-              "children": [{
-                "name": "url",
-                "type": "url",
-                "url": "https://vanheemstrasystems.github.io/learning-containerisation/"
-              }]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Automation",
       "type": "folder",
       "children": [
@@ -64,66 +33,6 @@
                   "name": "url",
                   "type": "url",
                   "url": "https://vanheemstrasystems.github.io/learning-cloud-computing/"
-                },
-                {
-                  "name": "Cloud Architecture",
-                  "type": "folder",
-                  "children": [
-                    {
-                      "name": "url",
-                      "type": "url",
-                      "url": "https://github.com/vanHeemstraSystems/learning-cloud-architecture/"
-                    },
-                    {
-                      "name": "Azure Cloud Architecture",
-                      "type": "folder",
-                      "children": [
-                        {
-                          "name": "url",
-                          "type": "url",
-                          "url": "https://github.com/vanHeemstraSystems/learning-azure-cloud-architecture/"
-                        },
-                        {
-                          "name": "Azure Active Directory",
-                          "type": "folder",
-                          "children": [
-                            {
-                              "name": "url",
-                              "type": "url",
-                              "url": "https://github.com/vanHeemstraSystems/learning-azure-active-directory/"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Cloud Security",
-                  "type": "folder",
-                  "children": [
-                    {
-                      "name": "url",
-                      "type": "url",
-                      "url": "https://vanheemstrasystems.github.io/learning-cloud-security/"
-                    },
-                    {
-                      "name": "Cloud Access Security Broker",
-                      "type": "url",
-                      "url": "https://github.com/vanHeemstraSystems/learning-cloud-access-security-broker/"
-                    },
-                    {
-                      "name": "Azure Cloud Security",
-                      "type": "folder",
-                      "children": [
-                        {
-                          "name": "url",
-                          "type": "url",
-                          "url": "https://vanheemstrasystems.github.io/learning-azure-cloud-security/"
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             },
@@ -177,6 +86,203 @@
                           "url": "https://vanheemstrasystems.github.io/learning-terraform/"
                         }
                       ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Design",
+      "type": "folder",
+      "children": [
+        {
+          "name": "url",
+          "type": "url",
+          "url": "https://vanheemstrasystems.github.io/learning-design/"
+        },
+        {
+          "name": "Architecture",
+          "type": "folder",
+          "children": [
+            {
+              "name": "url",
+              "type": "url",
+              "url": "https://vanheemstrasystems.github.io/learning-architecture/"
+            },
+            {
+              "name": "Cloud Architecture",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "url",
+                  "type": "url",
+                  "url": "https://github.com/vanHeemstraSystems/learning-cloud-architecture/"
+                },
+                {
+                  "name": "Azure Cloud Architecture",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "url",
+                      "type": "url",
+                      "url": "https://github.com/vanHeemstraSystems/learning-azure-cloud-architecture/"
+                    },
+                    {
+                      "name": "Azure Active Directory",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "url",
+                          "type": "url",
+                          "url": "https://github.com/vanHeemstraSystems/learning-azure-active-directory/"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drawing",
+          "type": "folder",
+          "children": [
+            {
+              "name": "url",
+              "type": "url",
+              "url": "https://vanheemstrasystems.github.io/learning-drawing/"
+            },
+            {
+              "name": "foo",
+              "type": "folder",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "System Design",
+          "type": "folder",
+          "children": [
+            {
+              "name": "url",
+              "type": "url",
+              "url": "https://vanheemstrasystems.github.io/learning-system-design/"
+            },
+            {
+              "name": "Containerisation",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "url",
+                  "type": "url",
+                  "url": "https://vanheemstrasystems.github.io/learning-containerisation/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "type": "folder",
+      "children": [
+        {
+          "name": "url",
+          "type": "url",
+          "url": "https://vanheemstrasystems.github.io/learning-infrastructure/"
+        },
+        {
+          "name": "Cloud Infrastructure",
+          "type": "folder",
+          "children": [
+            {
+              "name": "url",
+              "type": "url",
+              "url": "https://vanheemstrasystems.github.io/learning-cloud-infrastructure/"
+            },
+            {
+              "name": "Azure Cloud Infrastructure",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "url",
+                  "type": "url",
+                  "url": "https://vanheemstrasystems.github.io/learning-azure-cloud-infrastructure/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Networking",
+          "type": "folder",
+          "children": [
+            {
+              "name": "url",
+              "type": "url",
+              "url": "https://vanheemstrasystems.github.io/learning-networking/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Physics",
+      "type": "folder",
+      "children": [
+        {
+          "name": "url",
+          "type": "url",
+          "url": "https://vanheemstrasystems.github.io/learning-physics/"
+        }
+      ]
+    },
+    {
+      "name": "Security",
+      "type": "folder",
+      "children": [
+        {
+          "name": "url",
+          "type": "url",
+          "url": "https://vanheemstrasystems.github.io/learning-security/"
+        },
+        {
+          "name": "Cyber Security",
+          "type": "folder",
+          "children": [
+            {
+              "name": "url",
+              "type": "url",
+              "url": "https://vanheemstrasystems.github.io/learning-cyber-security/"
+            },
+            {
+              "name": "Cloud Security",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "url",
+                  "type": "url",
+                  "url": "https://vanheemstrasystems.github.io/learning-cloud-security/"
+                },
+                {
+                  "name": "Cloud Access Security Broker",
+                  "type": "url",
+                  "url": "https://github.com/vanHeemstraSystems/learning-cloud-access-security-broker/"
+                },
+                {
+                  "name": "Azure Cloud Security",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "url",
+                      "type": "url",
+                      "url": "https://vanheemstrasystems.github.io/learning-azure-cloud-security/"
                     }
                   ]
                 }
