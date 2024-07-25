@@ -8,6 +8,37 @@
       "url": "https://vanheemstrasystems.github.io/learning/"
     },
     {
+      "name": "Architecture",
+      "type": "folder",
+      "children": [
+        {
+          "name": "url",
+          "type": "url",
+          "url": "https://vanheemstrasystems.github.io/learning-architecture/"
+        },
+        {
+          "name": "System Design",
+          "type": "folder",
+          "children": [
+            {
+              "name": "url",
+              "type": "url",
+              "url": "https://vanheemstrasystems.github.io/learning-system-design/"
+            },
+            {
+              "name": "Containerisation",
+              "type": "folder",
+              "children": [{
+                "name": "url",
+                "type": "url",
+                "url": "https://vanheemstrasystems.github.io/learning-containerisation/"
+              }]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Automation",
       "type": "folder",
       "children": [
