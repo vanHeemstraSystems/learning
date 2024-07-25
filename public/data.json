@@ -21,9 +21,19 @@
           "type": "folder",
           "children": [
             {
+              "name": "url",
+              "type": "url",
+              "url": "https://vanheemstrasystems.github.io/learning-computing/"
+            },
+            {
               "name": "Cloud Computing",
               "type": "folder",
               "children": [
+                {
+                  "name": "url",
+                  "type": "url",
+                  "url": "https://vanheemstrasystems.github.io/learning-cloud-computing/"
+                },
                 {
                   "name": "Cloud Architecture",
                   "type": "url",
@@ -34,9 +44,19 @@
                   "type": "folder",
                   "children": [
                     {
+                      "name": "url",
+                      "type": "url",
+                      "url": "https://vanheemstrasystems.github.io/learning-cloud-security/"
+                    },
+                    {
                       "name": "Azure Cloud Security",
                       "type": "folder",
                       "children": [
+                        {
+                          "name": "url",
+                          "type": "url",
+                          "url": "https://vanheemstrasystems.github.io/learning-azure-cloud-security/"
+                        },
                         {
                           "name": "Cloud Access Security Broker",
                           "type": "url",
@@ -53,10 +73,30 @@
               "type": "folder",
               "children": [
                 {
+                  "name": "url",
+                  "type": "url",
+                  "url": "https://vanheemstrasystems.github.io/learning-coding/"
+                },
+                {
                   "name": "Infrastructure-as-Code",
                   "type": "folder",
                   "children": [
-                    {}
+                    {
+                      "name": "url",
+                      "type": "url",
+                      "url": "https://vanheemstrasystems.github.io/learning-infrastructure-as-code/"
+                    },
+                    {
+                      "name": "Ansible",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "url",
+                          "type": "url",
+                          "url": "https://vanheemstrasystems.github.io/learning-infrastructure-as-code/"
+                        }
+                      ]
+                    }
                   ]
                 }
               ]
