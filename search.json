@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "use-cases.html",
+    "href": "use-cases.html",
+    "title": "Use Cases",
+    "section": "",
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-use-cases/"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning"
+  },
+  {
+    "objectID": "REMEMBERING.html",
+    "href": "REMEMBERING.html",
+    "title": "Remembering",
+    "section": "",
+    "text": "How to remember what you have learned, by Neo Kim:\n\n\n\nAsk: What problem does this solve?\nPreview the architecture: diagrams, key components, data flow.\nUse 3 passes: skim → read → deep dive.\nSplit system into layers: client, routing, server, storage.\nMark material: underline, star insights, write short notes or questions.\nHighlight only 20 percent (don’t mark everything important).\nRead complex topics SLOWLY… the slower the better.\nUse AI to fill knowledge gaps; ask clarifying questions as you read.\n\n\n\n\n\n“Summarize” each topic.\nLearn patterns: Latency + Global: CDN.\nRe-read fundamental concepts if necessary.\nSpaced repetition: review after 1 day, 1 week, 1 month.\nActive recall: use flashcards (e.g., Anki) for key concepts.\nUse mnemonics (SALT: Shard, Add cache, Load balance, Throttle).\nTeach someone else; this forces clarity.\nUse the Feynman technique: explain a concept in kid-level language.\nDraw diagrams to explain flow and concepts.\n\n\n\n\n\nRead to change how you think, not just to learn.\nKeep a notebook for diagrams and daily notes.\nKeep your knowledge system “simple” so you can review it often.\nKeep a daily reading ritual (minimum 25 minutes).\nSleep, move, and rest - your brain needs fuel.\nRead complex topics to expand your capacity for complexity.\nStudy when your mind is strongest (morning or midnight - it depends on you)."
+  },
+  {
+    "objectID": "REMEMBERING.html#how-to-read",
+    "href": "REMEMBERING.html#how-to-read",
+    "title": "Remembering",
+    "section": "",
+    "text": "Ask: What problem does this solve?\nPreview the architecture: diagrams, key components, data flow.\nUse 3 passes: skim → read → deep dive.\nSplit system into layers: client, routing, server, storage.\nMark material: underline, star insights, write short notes or questions.\nHighlight only 20 percent (don’t mark everything important).\nRead complex topics SLOWLY… the slower the better.\nUse AI to fill knowledge gaps; ask clarifying questions as you read."
+  },
+  {
+    "objectID": "REMEMBERING.html#how-to-remember",
+    "href": "REMEMBERING.html#how-to-remember",
+    "title": "Remembering",
+    "section": "",
+    "text": "“Summarize” each topic.\nLearn patterns: Latency + Global: CDN.\nRe-read fundamental concepts if necessary.\nSpaced repetition: review after 1 day, 1 week, 1 month.\nActive recall: use flashcards (e.g., Anki) for key concepts.\nUse mnemonics (SALT: Shard, Add cache, Load balance, Throttle).\nTeach someone else; this forces clarity.\nUse the Feynman technique: explain a concept in kid-level language.\nDraw diagrams to explain flow and concepts."
+  },
+  {
+    "objectID": "REMEMBERING.html#tools-workflow-and-mindset",
+    "href": "REMEMBERING.html#tools-workflow-and-mindset",
+    "title": "Remembering",
+    "section": "",
+    "text": "Read to change how you think, not just to learn.\nKeep a notebook for diagrams and daily notes.\nKeep your knowledge system “simple” so you can review it often.\nKeep a daily reading ritual (minimum 25 minutes).\nSleep, move, and rest - your brain needs fuel.\nRead complex topics to expand your capacity for complexity.\nStudy when your mind is strongest (morning or midnight - it depends on you)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
     "objectID": "initiative.html",
     "href": "initiative.html",
     "title": "Initiative",
@@ -14,31 +63,10 @@
     "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-themes/"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "use-cases.html",
-    "href": "use-cases.html",
-    "title": "Use Cases",
-    "section": "",
-    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-use-cases/"
-  },
-  {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Table of contents",
-    "section": "",
-    "text": "Table of contents\n\nLearning"
   }
 ]

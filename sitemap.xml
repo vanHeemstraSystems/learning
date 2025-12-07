@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vanHeemstraSystems.github.io/learning/initiative.html</loc>
-    <lastmod>2024-07-25T13:30:09.418Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vanHeemstraSystems.github.io/learning/themes.html</loc>
-    <lastmod>2024-07-25T13:30:09.418Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vanHeemstraSystems.github.io/learning/index.html</loc>
-    <lastmod>2024-07-25T13:30:09.418Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vanHeemstraSystems.github.io/learning/about.html</loc>
-    <lastmod>2024-07-25T13:30:09.414Z</lastmod>
-  </url>
-  <url>
     <loc>https://vanHeemstraSystems.github.io/learning/use-cases.html</loc>
-    <lastmod>2024-07-25T13:30:09.418Z</lastmod>
+    <lastmod>2025-12-07T14:16:51.495Z</lastmod>
   </url>
   <url>
     <loc>https://vanHeemstraSystems.github.io/learning/SUMMARY.html</loc>
-    <lastmod>2024-07-25T13:30:09.414Z</lastmod>
+    <lastmod>2025-12-07T14:16:51.492Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning/REMEMBERING.html</loc>
+    <lastmod>2025-12-07T14:16:51.492Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning/index.html</loc>
+    <lastmod>2025-12-07T14:16:51.493Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning/initiative.html</loc>
+    <lastmod>2025-12-07T14:16:51.493Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning/themes.html</loc>
+    <lastmod>2025-12-07T14:16:51.495Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanHeemstraSystems.github.io/learning/about.html</loc>
+    <lastmod>2025-12-07T14:16:51.492Z</lastmod>
   </url>
 </urlset>
